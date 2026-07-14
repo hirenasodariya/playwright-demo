@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-function isAccending(arr: number[]): boolean {
+function isAsceding(arr: number[]): boolean {
     for (let i = 1; i < arr.length; i++) {
         if (arr[i] < arr[i - 1])
             return false;
