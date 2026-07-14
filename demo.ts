@@ -1,6 +1,6 @@
 export async function demo() {
 
 }
-export async function testing() {
+export async function xyz() {
 
 }
